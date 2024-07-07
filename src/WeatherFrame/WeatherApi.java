@@ -17,9 +17,8 @@ import java.util.Scanner;
  */
 public class WeatherApi {
 
-    // Konstanten für die API
-    private static final String API_KEY = "d32e7765cb1d71f77cd74c41b902df6e";
-    private static final String API_BASE_URL = "https://api.openweathermap.org/data/2.5/weather";
+    // API Key wurde ausgeblendet
+    
 
     /**
      * Ruft Wetterdaten für die angegebene Stadt von der OpenWeatherMap-API ab.
